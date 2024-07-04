@@ -1,4 +1,4 @@
-# Mutithreaded-HTTP-Client_Server
+# Multithreaded-HTTP-Client_Server
 
 <h4>Port Number Used: 9090 </h4>
 
