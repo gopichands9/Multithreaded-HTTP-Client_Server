@@ -21,7 +21,7 @@ public class HttpServer implements Runnable{
     private static ServerSocket serverSocket;
 
     public HttpServer(Socket socket){
-        this.socket = socket;
+        HttpServer.socket = socket;
     }
 
     /**
